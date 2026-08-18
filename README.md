@@ -104,10 +104,10 @@ Passionate about problem-solving and building apps. Currently exploring the tech
 
 ---
 
-### 🎯 Fun Facts
+### 🎯 Hobbies
 
-- ♟️ I love playing **Chess**
-- 🏸 I enjoy playing **Badminton**
+- ♟️ **Chess**
+- 🏸 **Badminton**
 
 ---
 
