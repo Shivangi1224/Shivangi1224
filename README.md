@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 
 <div align="center">
  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:1e40af,100:2563eb&height=230&section=header&text=Shivangi%20Gupta&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=48&fontAlign=50" width="100%"/>
 
 </div>
+-->
 
 <br/>
 
