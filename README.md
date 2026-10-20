@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 **Computer Engineering Student @ TSEC**  
 Passionate about problem-solving and building apps. Currently exploring the tech world.
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Shivangi1224.profile&left_text=Profile%20views&left_color=gray&right_color=blue" alt="Profile views" />
+<!--<img src="https://visitor-badge.laobi.icu/badge?page_id=Shivangi1224.profile&left_text=Profile%20views&left_color=gray&right_color=blue" alt="Profile views" />-->
 
 </div>
 
